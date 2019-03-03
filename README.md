@@ -1,6 +1,6 @@
-# ckbase
+# micro-ckbase
 
-ckmaker-base
+micro-ckmaker-base
 
 ## TODO
 
