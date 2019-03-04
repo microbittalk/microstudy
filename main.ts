@@ -14,7 +14,7 @@ namespace ckmakerBase {
     };
 
    //const stepperAllSteps = 2048;
-    const stepperAllSteps = 4096;
+    const stepperAllSteps = 100;
 
     let stepperCh0: DigitalPin;
     let stepperCh1: DigitalPin;
